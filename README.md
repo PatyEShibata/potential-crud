@@ -27,7 +27,7 @@ CREATE SCHEMA `crud-gazin`;
   
 4. Clone o projeto
 
-5. Acesse a pasta `backend` pelo terminal
+5. Acesse a pasta `crud-gazin-back` pelo terminal
 
 6. Rode o comando
 ```
@@ -39,7 +39,7 @@ yarn
 yarn start
 ```
 
-8. Acesse a pasta `frontend` pelo terminal
+8. Acesse a pasta `crud-gazin-front` pelo terminal
 
 9. Rode o comando
 ```
