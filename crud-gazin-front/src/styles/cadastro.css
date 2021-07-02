@@ -1,0 +1,53 @@
+.header{
+  margin: 20px;
+}
+
+.field{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.button-save {
+  background: #24950f;
+    color: #fff;
+    border: 0;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-right: 10px;
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    bottom: 40px;
+    right: 40px;
+    transition: .5s;
+    text-decoration: none;
+    text-align: center;
+}
+
+.button-save:hover {
+  background-color: #1c700d;
+}
+
+.button-cancel {
+  background: #c60001;
+  color: #fff;
+  border: 0;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-right: 10px;
+  width: 130px;
+  height: 40px;
+  position: absolute;
+  bottom: 40px;
+  right: 190px;
+  transition: .5s;
+  text-decoration: none;
+  text-align: center;
+}
+
+.button-cancel:hover {
+  background-color: #740307;
+}
